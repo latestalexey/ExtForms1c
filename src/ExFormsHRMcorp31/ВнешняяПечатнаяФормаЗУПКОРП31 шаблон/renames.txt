@@ -1,0 +1,7 @@
+﻿cab0acd2-d376-41eb-bf0b-9c487cabf7a7-->und\cab0acd2-d376-41eb-bf0b-9c487cabf7a7
+ce979a67-53d1-45f1-8703-0972ac380159.0\info-->und\ce979a67-53d1-45f1-8703-0972ac380159.0\info
+ce979a67-53d1-45f1-8703-0972ac380159.0\text-->ObjectModule.bsl
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
