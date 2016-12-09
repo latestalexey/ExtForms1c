@@ -1,0 +1,11 @@
+﻿090213fb-0a19-41b1-952d-402cc49c9c27.0\info-->C:\Users\ganiev\AppData\Local\Temp\ЭкспрессПроверкаВеденияУчетаЗУП.epf.und\090213fb-0a19-41b1-952d-402cc49c9c27.0\info
+090213fb-0a19-41b1-952d-402cc49c9c27.0\text-->ObjectModule.txt
+44fe01dc-505c-4528-98c0-aef838bf6819-->und\44fe01dc-505c-4528-98c0-aef838bf6819
+4c577064-a839-4306-a59d-4c99a811d975-->und\4c577064-a839-4306-a59d-4c99a811d975
+4c577064-a839-4306-a59d-4c99a811d975.0-->und\4c577064-a839-4306-a59d-4c99a811d975.0
+8f6a3d01-dddb-4844-b9a4-a15d21b7158b-->und\8f6a3d01-dddb-4844-b9a4-a15d21b7158b
+8f6a3d01-dddb-4844-b9a4-a15d21b7158b.0-->Form\Форма
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
