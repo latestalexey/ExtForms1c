@@ -1,0 +1,9 @@
+﻿9b380cb9-ebf9-4d3c-b558-f4f868c57ea5-->und\9b380cb9-ebf9-4d3c-b558-f4f868c57ea5
+b7986a98-663a-4f7e-936e-a78700124d6a-->und\b7986a98-663a-4f7e-936e-a78700124d6a
+b7986a98-663a-4f7e-936e-a78700124d6a.0-->Form\Форма
+copyinfo-->und\copyinfo
+e6947ce1-6b17-468f-acee-ef7c109949e5.0\info-->C:\Users\ganiev\AppData\Local\Temp\XML ПолнаяВыгрузкаЗагрузкаОбъектовЧерезXML.epf.und\e6947ce1-6b17-468f-acee-ef7c109949e5.0\info
+e6947ce1-6b17-468f-acee-ef7c109949e5.0\text-->ObjectModule.txt
+root-->und\root
+version-->und\version
+versions-->und\versions
